@@ -1,0 +1,5 @@
+/vendor
+/.bundle
+*.swp
+Thumbs.db
+.DS_Store
